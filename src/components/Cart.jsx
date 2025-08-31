@@ -23,12 +23,6 @@ const Cart = () => {
       image: "https://cdn.dummyjson.com/recipe-images/11.webp",
       price: 150,
       quantity: 2,
-    },{
-      id: 4,
-      name: "Chicken Biryani",
-      image: "https://cdn.dummyjson.com/recipe-images/20.webp",
-      price: 200,
-      quantity: 2,
     },
   ]);
 
